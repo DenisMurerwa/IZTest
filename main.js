@@ -1,7 +1,7 @@
 // Typing Animation for the header text
 var typed = new Typed(".text", {
     strings: ["Frontend Developer", "Web Developer", "Computer Technician", "Mobile Developer"], 
-    typeSpeed: 100,
+    typeSpeed: 150,
     backSpeed: 100,
     backDelay: 1000,
     loop: true
